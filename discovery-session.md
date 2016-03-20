@@ -35,9 +35,9 @@ The activity is usually face-to-face with the following people from the consulti
 
 ##Links
 [https://www.redhat.com/en/resources/red-hat-consulting-discovery-session-cloud-strategy](Red%20Hat%20Cloud%20Discovery%20Session)
+[https://trello.com/b/Aa0zEgau/mobile-discovery-session](Red Hat Mobile Discovery Session Trello Board)
 
 ##Techniques
 
 ##Tags
-
 
