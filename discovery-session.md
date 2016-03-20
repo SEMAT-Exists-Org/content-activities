@@ -34,7 +34,7 @@ The activity is usually face-to-face with the following people from the consulti
  5. project owner project member
 
 ##Links
-
+[Red Hat Cloud Discovery Session][https://www.redhat.com/en/resources/red-hat-consulting-discovery-session-cloud-strategy]
 
 ##Techniques
 
