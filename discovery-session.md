@@ -4,6 +4,17 @@
 Discovery Session
 ##Type
 Activity
+##Author
+Malcolm Herbert, Red Hat 2016
+##License
+Creative Commons Attribution-ShareAlike 4.0
+https://creativecommons.org/licenses/by-sa/4.0/
+![CC BY SA](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
+
+
+----------
+
+
 ##Input Alpha States
 Alpha | State | TotalStates
 ---| --- | ---
@@ -24,6 +35,10 @@ Software System|0|6
 Work|0|6
 Way of Working|1|6
 Team|1|5
+
+
+----------
+
 ##Description
 A 4 to 6 hours session with the organisation to take an identified project opportunity to one that has an initial understanding of requirements, who are the key stakeholders are as well as confirming the opportunity.
 The activity is usually face-to-face with the following people from the consulting organisations:
@@ -40,4 +55,4 @@ The activity is usually face-to-face with the following people from the consulti
 ##Techniques
 
 ##Tags
-
+"SEMAT Essence" "Discovery Session"
