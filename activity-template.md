@@ -38,6 +38,9 @@ Team|1|5
 
 
 ----------
+##Summary
+4-6 hour session face to face with the organisation, focusing on the opportunity, requirements and to some extent the Stakeholders. Key part of the early stages of a consulting project. 
+
 
 ##Description
 A 4 to 6 hours session with the organisation to take an identified project opportunity to one that has an initial understanding of requirements, who are the key stakeholders are as well as confirming the opportunity.
