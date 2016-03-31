@@ -64,7 +64,7 @@ Initial customer contact with Services organisation to set boundaries and agenda
 1.Customized Workshop Preparation Guide, presented to customer
 
 ##Links
-
+[Prepation Call, workshop template](https://github.com/SEMAT-Exists-Org/content-activities/blob/master/preparation-call-guide-template-01.pdf)
 ##Techniques
 
 ##Tags
