@@ -1,24 +1,16 @@
 ----------
 # ACTIVITY
 ## Name
-$title$
+Design Thinking
 ## Type
 Activity
-## Author
-$author$ $date$
-## License
-Creative Commons Attribution-ShareAlike 4.0
-https://creativecommons.org/licenses/by-sa/4.0/
-![CC BY SA](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
-
-----------
 
 ## Activity Spaces Influenced
 Activities can only influence one activity space
 
 | Activity Area | Activity Space | Influenced |
 |---------------|----------------|------------|
-|Customer|Explore Possibilities||
+|Customer|Explore Possibilities|1|
 |Customer|Understand Stakeholders Needs||
 |Customer|Ensure Stakeholder Satisfaction||
 |Customer|Use The System||
@@ -37,35 +29,38 @@ Activities can only influence one activity space
 ## Input Alpha States
 Alpha | State | TotalStates
 ---| --- | ---
-Opportunity|1|6
-Stakeholders|1|6
-Requirements|1|6
+Opportunity|1|2
+Stakeholders|1|3
+Requirements|1|3
 Software System|0|6
-Work|0|6
-Way of Working|0|6
-Team|1|5
+Work|1|1
+Way of Working|1|3
+Team|1|3
 
 ## Output Alpha States
 Alpha | State | TotalStates
 ---| --- | ---
-Opportunity|1|6
-Stakeholders|1|6
-Requirements|1|6
-Software System|0|6
-Work|0|6
-Way of Working|0|6
-Team|1|5
+Opportunity|1|2
+Stakeholders|1|3
+Requirements|1|3
+Software System|1|1
+Work|1|1
+Way of Working|0|3
+Team|1|4
+
 
 ## Summary
-$summary$
+Design Thinking activity 
 
 ## Description
-$body$
+Design Thinking is a way of creating a lot of ideas from a small to medium group and then determining (by discussing and voting) which of these are key to the business. A good tool to ensure that everyone in a group contributes and that ideas are considered from a meritocracy basis. 
 
 ## Practices
+Discovery Session
 
 ## Links
-$link$
+[https://en.wikipedia.org/wiki/Design_thinking](https://en.wikipedia.org/wiki/Design_thinking)
+[Design Thinking Youtube Video](https://www.youtube.com/watch?v=JZH70qhmEso)
 
 ## Tags
-$title$
+Discovery Session
