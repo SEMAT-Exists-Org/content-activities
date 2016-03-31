@@ -1,19 +1,19 @@
 ----------
-#ACTIVITY
-##Name
+# ACTIVITY
+## Name
 $title$
-##Type
+## Type
 Activity
-##Author
+## Author
 $author$ $date$
-##License
+## License
 Creative Commons Attribution-ShareAlike 4.0
 https://creativecommons.org/licenses/by-sa/4.0/
 ![CC BY SA](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
 
 ----------
 
-##Activity Spaces Influenced
+## Activity Spaces Influenced
 
 | Activity Area | Activity Space | Influenced |
 |---------------|----------------|------------|
@@ -33,7 +33,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 |Endeavour|Track Progress||
 |Endeavour|Stop the Work||
 
-##Input Alpha States
+## Input Alpha States
 Alpha | State | TotalStates
 ---| --- | ---
 Opportunity|1|6
@@ -44,14 +44,25 @@ Work|0|6
 Way of Working|0|6
 Team|1|5
 
-##Summary
+## Output Alpha States
+Alpha | State | TotalStates
+---| --- | ---
+Opportunity|1|6
+Stakeholders|1|6
+Requirements|1|6
+Software System|0|6
+Work|0|6
+Way of Working|0|6
+Team|1|5
+
+## Summary
 $summary$
 
-##Description
+## Description
 $body$
 
-##Links
+## Links
 $link$
 
-##Tags
+## Tags
 $title$
