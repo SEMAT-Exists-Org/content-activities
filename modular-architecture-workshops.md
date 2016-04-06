@@ -1,11 +1,11 @@
 ----------
 # ACTIVITY
 ## Name
-Project Core Planner
+Modular Architecture Workshops
 ## Type
 Activity
 ## Author
-Marcel Wysocki,Tim Jackson, Red Hat 2016
+Red Hat 2016
 ## License
 Creative Commons Attribution-ShareAlike 4.0
 https://creativecommons.org/licenses/by-sa/4.0/
@@ -40,34 +40,33 @@ Alpha | State | TotalStates
 Opportunity|1|2
 Stakeholders|1|3
 Requirements|1|2
-Software System|1|1
-Work|1|3
-Way of Working|1|1
+Software System|1|0
+Work|1|1
+Way of Working|1|2
 Team|1|2
 
 ## Output Alpha States
 Alpha | State | TotalStates
 ---| --- | ---
-Opportunity|1|3
-Stakeholders|1|3
-Requirements|1|2
+Opportunity|1|4
+Stakeholders|1|4
+Requirements|1|4
 Software System|1|1
-Work|1|4
-Way of Working|1|2
+Work|1|3
+Way of Working|1|3
 Team|1|3
 
 ## Summary
-Project Core Planner is a defined spreadsheet outlining sprints, stakeholders, activities such as way of working 
+pluggable practice design phase activities 
 
 ## Description
-The spreadsheet is used for OpenPlatform Core project planning and startup: outlining sprints, stakeholders, and activities such as way of working, kickoff meeting. 
+Modular architecture workshops are activities that are designed to be pluggable into the design phase of practices and shaped by Client high level requirements and solution themes. For instance the Way of Working modular workshop Activity associated with the DevOps Red Hat Solution. 
 
 
 ## Practices
-Project Core
 
 ## Links
-
+$link$
 
 ## Tags
 $title$
