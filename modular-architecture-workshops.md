@@ -64,6 +64,7 @@ Modular architecture  workshops reflect the need for system architecture during 
 
 ## Practices
 [Infrastructure System Integration](https://github.com/SEMAT-Exists-Org/content-practices/blob/master/infrastructure-system-integration.md)
+
 [MiddleWare System Integration](https://github.com/SEMAT-Exists-Org/content-practices/blob/master/middleware-system-integration.md) 
 
 ## Links
