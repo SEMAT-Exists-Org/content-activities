@@ -50,21 +50,21 @@ Team|1|4
 
 
 ## Summary
-Client services engagement preparation document  
+Client preparation guide 
 
 ## Description
-Client services engagement preparation documents are designed to be sent following a services request for a Discovery Session or similar pre-sales services engagement. The Client prep doc takes a pre-formatted form and is based on a Discovery session or engagement theme. The following themes currently exist: DevOps, Migration: JBoss, Infrastructure/Virtualisation, ITOE/SOE. 
+Client preparation documents are designed to be sent following a services request for a Discovery Session or similar pre-sales services engagement or practice. The Client prep doc takes a pre-formatted form and is based on a Discovery session or engagement theme. The following themes currently exist: DevOps, Migration: JBoss, Infrastructure/Virtualisation, ITOE/SOE. 
 
 The Document should be sourced around a particular theme, then edited to reflect customer details and passed on to the customer. It should outline a framework agenda for discussion and finalisation in the Pre-Call as well as potential outcomes from the one day Discovery Session. 
 The document should be sent in pdf format and used for follow on finalisation of an on-site Discovery Session. 
-See internal sources for example templates. 
-For follow on solutions a client prep doc should be created to introduce Discovery Session flavours and themes.   
+See following link for an example SOE Client prep doc. 
+When creating additional solution themes a client prep doc should be a mandatory document and created to introduce the solutions Discovery Session practice.    
 
 ## Practices
 Discovery Session
 
 ## Links
-See internal Red Hat doc store. 
+https://github.com/SEMAT-Exists-Org/content-activities/blob/master/preparation-call-guide-template-01.pdf 
 
 ## Tags
 Discovery Session, Client Preparation guide
