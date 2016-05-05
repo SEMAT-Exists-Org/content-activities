@@ -1,11 +1,11 @@
 ----------
 # ACTIVITY
 ## Name
-$title$
+Contacts Responsibilities
 ## Type
 Activity
 ## Author
-$author$ $date$
+M Herbert 2016
 ## License
 Creative Commons Attribution-ShareAlike 4.0
 https://creativecommons.org/licenses/by-sa/4.0/
@@ -70,8 +70,15 @@ Role | Responsibility | Customer | Provider | Time Needed
 
 
 ## Practices
+[Discovery Session](https://github.com/SEMAT-Exists-Org/content-practices/blob/master/discovery-session.md)
+
+[Infrastructure System Integration](https://github.com/SEMAT-Exists-Org/content-practices/blob/master/infrastructure-system-integration.md)
+
+[Middleware System Integration](https://github.com/SEMAT-Exists-Org/content-practices/blob/master/middleware-system-integration.md)
+
 
 ## Links
-$link$
+
 
 ## Tags
+Contacts
