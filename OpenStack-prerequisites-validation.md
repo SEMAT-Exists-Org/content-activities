@@ -57,10 +57,12 @@ Way of Working|4|6
 Team|3|5
 
 ## Summary
-$summary$
+Validate all prerequisites are available and in place.
 
 ## Description
-$body$
+Validate all prerequisites are available and in place. This is to make sure there is no delays due to external dependencies.
+
+TODO: provide a checklist.
 
 ## Practices
 [OpenStack Deployment](https://github.com/semat-exists-org/content-practices/blob/openstack-deployment/OpenStack-Deployment.md)

@@ -57,10 +57,24 @@ Way of Working|2|6
 Team|3|5
 
 ## Summary
-$summary$
+Co-ordinate with the customer what needs to be in place for consultants to come on-site.
 
 ## Description
-$body$
+Co-ordinate with the customer what needs to be in place to start the deployment.
+Roughly this should consist of the following parts:
+
+### Access and Workspace
+Consultants need access to the building, a workspace to work from and access to the environment.
+
+TODO: provide a technique - base on existing customer prep material
+
+### Preparation of the Environment
+The Compute, Network and Storage requirements as outlined in the Design document should be in place. Also all MAC, IP, DNS addresses as well as IPMI credentials and so forth.
+
+TODO: provide a reusable checklist.
+
+### Software and Subscriptions
+All software and subscriptions should be available, necessary access to software is in place (CDN/Portal access, Proxy if necessary or Satellite)
 
 ## Practices
 [OpenStack Deployment](https://github.com/semat-exists-org/content-practices/blob/openstack-deployment/OpenStack-Deployment.md)

@@ -57,10 +57,10 @@ Way of Working|5|6
 Team|4|5
 
 ## Summary
-$summary$
+Deploy the final environment.
 
 ## Description
-$body$
+Deploy the final environment, including all the integrations. Run all necessary post-deployment steps.
 
 ## Practices
 [OpenStack Deployment](https://github.com/semat-exists-org/content-practices/blob/openstack-deployment/OpenStack-Deployment.md)

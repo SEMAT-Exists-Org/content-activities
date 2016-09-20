@@ -57,10 +57,13 @@ Way of Working|6|6
 Team|5|5
 
 ## Summary
-$summary$
+Validate the environment.
 
 ## Description
-$body$
+Validate the environment.
+
+* Run through functional tests/test-plans if available and document outcome
+* Present envrionment and results to customer
 
 ## Practices
 [OpenStack Deployment](https://github.com/semat-exists-org/content-practices/blob/openstack-deployment/OpenStack-Deployment.md)

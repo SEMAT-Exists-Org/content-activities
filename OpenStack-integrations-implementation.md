@@ -57,10 +57,10 @@ Way of Working|5|6
 Team|4|5
 
 ## Summary
-$summary$
+Create all the integrations via Heat.
 
 ## Description
-$body$
+Create all the integrations via Heat.
 
 ## Practices
 [OpenStack Deployment](https://github.com/semat-exists-org/content-practices/blob/openstack-deployment/OpenStack-Deployment.md)

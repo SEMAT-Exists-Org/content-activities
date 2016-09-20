@@ -57,10 +57,13 @@ Way of Working|5|6
 Team|4|5
 
 ## Summary
-$summary$
+Handover the environment.
 
 ## Description
-$body$
+Handover the environment.
+
+* Provide credentials
+* Discuss support responsibility and workflows
 
 ## Practices
 [OpenStack Deployment](https://github.com/semat-exists-org/content-practices/blob/openstack-deployment/OpenStack-Deployment.md)

@@ -57,10 +57,12 @@ Way of Working|4|6
 Team|3|5
 
 ## Summary
-$summary$
+Create a minimal deployment without additional integrations.
 
 ## Description
-$body$
+Create a minimal deployment without additional integrations. This allows to have a minimal deployment where integrations can be added one-by-one and is consistent with a Lean MVP approach.
+
+TODO: provide deployment documentation/template to deploy/document in parallel.
 
 ## Practices
 [OpenStack Deployment](https://github.com/semat-exists-org/content-practices/blob/openstack-deployment/OpenStack-Deployment.md)
